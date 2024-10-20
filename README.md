@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @10PAM
-- 👀 I’m interested in learning more about how computers work on a more fundemental level.
-- 🌱 I’m currently learning computer science at a local college.
-- 😄 Pronouns: He/Him
+- 👋 Hi, I’m Mario.
+- 🧠 I’m interested in learning more about how computers work on a more fundemental level.
+- 📚 I’m currently learning computer science at a local college.
+- 🤠 Pronouns: He/Him
+- 💡 Fun Fact: Vaqueros are the original cowboys.
 
 <!---
 10PAM/10PAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
