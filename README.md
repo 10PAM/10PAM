@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mario.
+- 👋 Hello, my name is Mario!
 - 🧠 I’m interested in learning more about how computers work on a more fundemental level.
 - 📚 I’m currently learning computer science at a local college.
 - 🤠 Pronouns: He/Him
