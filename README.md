@@ -1,5 +1,5 @@
 - 👋 Hey!
-- 🧠 I am interested in learning about how computers work on a fundemental level.
+- 🧠 I am interested in learning about how computers systems work.
 - 📚 I am currently learning computer science at a local college.
 - 🤠 Pronouns: He/Him
 - 💡 Fun Fact: Vaqueros are the original cowboys.
