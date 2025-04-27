@@ -1,6 +1,6 @@
-- 👋 Hey!
-- 🧠 I am interested in learning about how computers systems work.
-- 📚 I am currently taking a four year computer science course at a local college.
+- 👋 Hello!
+- 🧠 I am interested in learning about computer systems and programming them in general.
+- 📚 I am currently taking a four year computer science course at a local college while commuting to and from daily.
 - 🤠 Pronouns: He/Him
 - 💡 Fun Fact: Vaqueros are the original cowboys.
 
