@@ -1,5 +1,5 @@
 - 👋 Hello!
-- 🧠 I am interested in learning about computer systems, but particularly programming methods for software systems and video games in general.
+- 🧠 I am interested in learning about computer systems, but particularly programming methods for video games and software systems  in general.
 - 📚 I am currently taking a four year computer science course at a local college while commuting to and from it daily.
 - 🤠 Pronouns: He/Him
 - 💡 Fun Fact: Vaqueros are the original cowboys.
