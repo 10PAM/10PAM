@@ -3,6 +3,7 @@
     <kbd align="center">
       <span style="font-weight: bold;">Mario Aguilera Piceno, B.S. Computer Science</span>
     </kbd>
+    <p> </p>
     <p style="font-weight: bold;">[ Computer Programmer ]</p>
     <p style="font-weight: bold;">[ Piceno's Founder ]</p>
     <p style="font-weight: bold;">[ Mental Health Worker ]</p>
