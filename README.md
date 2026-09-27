@@ -24,7 +24,11 @@
       <p> -  Software Tools (C++, Java, Python)</p>
       <p> -  Application Programming (Java, JS, C#, Kotlin)</p>
       <p>}</p>
-      <p>I am a student in the B.S. computer science program at Central Washington University, with hopes of attaining a master's in computer science there afterwards.</p>
+      <p>I am a student in the B.S. computer science program at</p>
+      <a href="https://www.piceno.dev/mario/CWU_Logo3.png" target="_blank">
+        <img width="20" height="10" alt="Not_talking" src="https://github.com/user-attachments/assets/4288810e-a7c5-470b-b35b-3a73b2c0c9ea">
+      </a>
+      <p>with hopes of attaining a master's in computer science there afterwards.</p>
       <p> My Pronouns: He/Him</p>
       <p>Fun Fact: Vaqueros are the original cowboys.</p>
       <hr>
