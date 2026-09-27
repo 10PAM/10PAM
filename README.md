@@ -73,9 +73,16 @@
       <p>Commitment: ...</p>
     </details>
     <details>
-    <summary><b>My Message</b></summary>
+    <summary><b>My Creed</b></summary>
       <p> </p>
       <p>01001100 01101001 01110110 01100101 00101100 00100000 01101000 01100101 01101100 01110000 00100000 01101111 01110100 01101000 01100101 01110010 01110011 00101100 00100000 01101100 01101111 01110110 01100101 00101110</p>
+    </details>
+    <details>
+    <summary><b>My Code of Ethics</b></summary>
+      <p> </p>
+      <p>I will tell the truth and nothing but the truth.</p>
+      <p>I will take responsibility for my actions.</p>
+      <p>I will take into consideration and acknowledge the beliefs of others.</p>
     </details>
   </kbd>
 </div>
