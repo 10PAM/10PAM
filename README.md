@@ -6,7 +6,7 @@
     </kbd>
     <p> </p>
     <kbd align="center">
-      <span style="font-weight: bold;">[ Computer Programmer ∧ Piceno's Founder ∧ Mental Health Worker]</span>
+      <span style="font-weight: bold;">[ Computer Programmer ∧ Piceno's Founder ∧ Mental Health Worker ]</span>
     </kbd>
     <p> </p>
     <kbd align="center">
