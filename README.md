@@ -1,5 +1,5 @@
 <div align="left">
-  <p style="font-weight: bold;">Mario Aguilera Piceno</p>
+  <p style="font-weight: bold;">Mario Aguilera Piceno, B.S. in Computer Science</p>
   <p style="font-weight: bold;">Check out Piceno:</p>
   <a href="https://www.piceno.dev/" target="_blank">
     <img src="https://www.piceno.dev/images/Logo_Main.png" style="width: 150px; height: 150px; border: 2px solid #FFFFFF;" alt="Piceno">
