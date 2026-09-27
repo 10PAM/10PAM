@@ -5,7 +5,9 @@
       <span style="font-weight: bold;">Mario Aguilera Piceno, B.S. Computer Science</span>
     </kbd>
     <p> </p>
-    <span style="font-weight: bold;">[ Computer Programmer ∧ Piceno's Founder ∧ Mental Health Worker]</span>
+    <kbd align="center">
+      <span style="font-weight: bold;">[ Computer Programmer ∧ Piceno's Founder ∧ Mental Health Worker]</span>
+    </kbd>
     <p> </p>
     <kbd align="center">
       <p> </p>
