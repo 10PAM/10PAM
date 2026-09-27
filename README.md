@@ -15,6 +15,7 @@
       <p> </p>
       <p style="font-weight: bold;">↑ More About Me ↑</p>
     </kbd>
+    <p> </p>
     <kbd alin="center">
       <a href="https://www.piceno.dev/">  
         <img src="https://www.piceno.dev/images/Logo_Main.png" width="50" height="50" alt="Piceno">
