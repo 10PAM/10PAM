@@ -21,7 +21,7 @@
         <img src="https://www.piceno.dev/images/Logo_Main.png" width="40" height="40" border="0" alt="Piceno">
       </a>
       <a href="https://www.linkedin.com/in/mario-aguilera-piceno">  
-        <img src="https://www.piceno.dev/images/Linked_In.png" width="40" height="40" alt="LinkedIn">
+        <img src="https://www.piceno.dev/images/Linked_In.png" width="40" height="40" border="0" alt="LinkedIn">
       </a>
       <a href="https://www.piceno.dev/mario/pages/career/cv/">  
         <img src="https://www.piceno.dev/images/pages/mario/CV.png" width="40" height="40" alt="Curriculum Vitae">
