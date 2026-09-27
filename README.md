@@ -15,7 +15,7 @@
     <div align="left" width=200px>
       <hr>
       <p>👋 Hey there!</p>
-      <p>🧠 My Interests {</p>
+      <p>My Interests {</p>
       <p> ➡️ 3D Graphics Programming (C++)</p>
       <p> ➡️ Software Tools (C++, Java, Python)</p>
       <p> ➡️ Application Programming (Java, Kotlin, JavaScript)</p>
