@@ -18,28 +18,28 @@
     <p> </p>
     <kbd alin="center">
       <a href="https://www.piceno.dev/">  
-        <img src="https://www.piceno.dev/images/Logo_Main.png" width="40" height="40" alt="Piceno">
+        <img src="https://www.piceno.dev/images/Logo_Main.png" width="40" height="40" border="0" alt="Piceno">
       </a>
       <a href="https://www.linkedin.com/in/mario-aguilera-piceno">  
-        <img src="https://www.piceno.dev/images/Linked_In.png" width="40" height="40" alt="LinkedIn">
+        <img src="https://www.piceno.dev/images/Linked_In.png" width="40" height="40" border="0" alt="LinkedIn">
       </a>
       <a href="https://www.piceno.dev/mario/pages/career/cv/">  
-        <img src="https://www.piceno.dev/images/pages/mario/CV.png" width="40" height="40" alt="Curriculum Vitae">
+        <img src="https://www.piceno.dev/images/pages/mario/CV.png" width="40" height="40" border="0" alt="Curriculum Vitae">
       </a>
       <a href="mailto:contact@piceno.dev">  
-        <img src="https://www.piceno.dev/images/Gmail.png" width="40" height="40" alt="Email">
+        <img src="https://www.piceno.dev/images/Gmail.png" width="40" height="40" border="0" alt="Email">
       </a>
       <a href="https://www.instagram.com/yoo.mario">  
-        <img src="https://www.piceno.dev/images/Instagram.png" width="40" height="40" alt="Instagram">
+        <img src="https://www.piceno.dev/images/Instagram.png" width="40" height="40" border="0" alt="Instagram">
       </a>
       <a href="https://www.facebook.com/01MAP">  
-        <img src="https://www.piceno.dev/images/Facebook.png" width="40" height="40" alt="Facebook">
+        <img src="https://www.piceno.dev/images/Facebook.png" width="40" height="40" border="0" alt="Facebook">
       </a>
       <a href="https://www.youtube.com/@PicenoLLC">  
-        <img src="https://www.piceno.dev/images/YouTube.png" width="40" height="40" alt="YouTube">
+        <img src="https://www.piceno.dev/images/YouTube.png" width="40" height="40" border="0" alt="YouTube">
       </a>
       <a href="https://www.patreon.com/PicenoLLC/">  
-        <img src="https://www.piceno.dev/images/Patreon.jpg" width="40" height="40" alt="Patreon">
+        <img src="https://www.piceno.dev/images/Patreon.jpg" width="40" height="40" border="0" alt="Patreon">
       </a>
     </kbd>
     <p> </p>
