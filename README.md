@@ -17,7 +17,7 @@
     </kbd>
     <p> </p>
     <kbd alin="center">
-      <a href="https://www.piceno.dev/" style="text-decoration: none;" >  
+      <a href="https://www.piceno.dev/">  
         <img src="https://www.piceno.dev/images/Logo_Main.png" width="40" height="40" alt="Piceno">
       </a>
       <a href="https://www.linkedin.com/in/mario-aguilera-piceno">  
