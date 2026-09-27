@@ -32,7 +32,7 @@
       <p> </p>
       <p>Project Management: 95</p>
       <p>Teamwork: 95</p>
-      <p>Commitment: 95</p>
+      <p>Commitment: TBD</p>
     </details>
   </kbd>
 </div>
