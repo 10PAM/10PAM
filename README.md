@@ -27,7 +27,7 @@
       <a href="https://www.patreon.com/PicenoLLC/"><img src="https://www.piceno.dev/images/Patreon.jpg" width="40" height="40" border="0" alt="Patreon"></a>
     </kbd>
     <p> </p>
-    <div align="left">
+    <kbd align="left">
       <hr>
       <p>Hey there, welcome to my GitHub!</p>
       <p>My Interests {</p>
@@ -50,7 +50,7 @@
       <p> My Pronouns: He/Him</p>
       <p>Fun Fact: Vaqueros are the original cowboys.</p>
       <hr>
-    </div>
+    </kbd>
     <p> </p>
     <kbd align="center">
       <p style="font-weight: bold;">↓ Mondays be Like ↓</p>
