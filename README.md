@@ -19,5 +19,8 @@
       <p>ℹ️ Pronouns: He/Him</p>
       <p>🤠 Fun Fact: Vaqueros are the original cowboys.</p>
     </div>
+    <kbd align="center">
+      <img width="300" height="300" alt="Pug" src="https://github.com/user-attachments/assets/fc47a40e-6d36-4359-a8ec-38292d36c57a" />
+    </kbd>
   </kbd>
 </div>
