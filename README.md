@@ -30,9 +30,9 @@
     <details>
     <summary><b>Additional Stats</b></summary>
       <p> </p>
-      <p>Project Management: 95</p>
+      <p>Project Management: 100</p>
       <p>Teamwork: 95</p>
-      <p>Commitment: TBD</p>
+      <p>Commitment: Depends</p>
     </details>
   </kbd>
 </div>
