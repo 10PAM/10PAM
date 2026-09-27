@@ -34,11 +34,9 @@
     <kbd align="left">
       <p>Hey there, welcome to my GitHub!</p>
       <p>My Interests {</p>
-      <kbd>
-        <p> -  3D Graphics Programming</p>
-        <p> -  Mobile & Web Application Programming</p>
-        <p> -  Software Tools</p>
-      </kbd>
+      <p> -  3D Graphics Programming</p>
+      <p> -  Mobile & Web Application Programming</p>
+      <p> -  Software Tools</p>
       <p>}</p>
       <p>Programming Languages {</p>
       <kbd alin="center">
@@ -52,11 +50,9 @@
       <p> </p>
       <p>}</p>
       <p>About {</p>
-      <kbd>
-        <p>I am a student in the B.S. computer science program at Central Washington University (<a href="https://www.cwu.edu/" target="_blank"><img width="33" height="16" alt="CWU" src="https://www.piceno.dev/images/pages/mario/cwu-logo-fit-2.png"></a>), with hopes of completing it in winter of 2028 and attaining a master's in computer science there afterwards.</p>
-        <p> My Pronouns: He/Him</p>
-        <p>Fun Fact: Vaqueros are the original cowboys.</p>
-      </kbd>
+      <p>I am a student in the B.S. computer science program at Central Washington University (<a href="https://www.cwu.edu/" target="_blank"><img width="33" height="16" alt="CWU" src="https://www.piceno.dev/images/pages/mario/cwu-logo-fit-2.png"></a>), with hopes of completing it in winter of 2028 and attaining a master's in computer science there afterwards.</p>
+      <p> My Pronouns: He/Him</p>
+      <p>Fun Fact: Vaqueros are the original cowboys.</p>
       <p>}</p>
     </kbd>
     <p> </p>
