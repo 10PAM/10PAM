@@ -21,14 +21,13 @@
       <p>🤠 Fun Fact: Vaqueros are the original cowboys.</p>
     </div>
     <br>
-    <p></p>
     <kbd align="center">
       <p style="font-weight: bold;">↓ Mondays be Like ↓</p>
       <a href="https://www.piceno.dev/mario/" target="_blank">
         <img width="125" height="125" alt="Not_talking" src="https://github.com/user-attachments/assets/4288810e-a7c5-470b-b35b-3a73b2c0c9ea">
       </a>
     </kbd>
-    <br>
+    <p> </p>
     <details>
     <summary><b>Additional Stats</b></summary>
       <p>Project Management: 95</p>
