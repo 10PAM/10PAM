@@ -73,6 +73,12 @@
       <p>Commitment: ...</p>
     </details>
     <details>
+    <summary><b>My Message</b></summary>
+      <p> </p>
+      <p>Keep moving forward</p>
+      <p>Learn to live, live to love, love to grow.</p>
+    </details>
+    <details>
     <summary><b>My Creed</b></summary>
       <p> </p>
       <p>01001100 01101001 01110110 01100101 00101100 00100000 01101000 01100101 01101100 01110000 00100000 01101111 01110100 01101000 01100101 01110010 01110011 00101100 00100000 01101100 01101111 01110110 01100101 00101100 00100000 01100011 01101111 01100100 01100101 00101110</p>
