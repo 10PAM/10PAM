@@ -31,7 +31,7 @@
       <hr>
       <p>Hey there, welcome to my GitHub!</p>
       <p>My Interests {</p>
-      <p> -  3D Graphics Programming (<a href="https://isocpp.org/" target="_blank"><img width="16" height="16" alt="C++" src="https://www.piceno.dev/images/language-grounded-cpp.png"></a>)</p>
+      <p> -  3D Graphics Programming (<a href="https://isocpp.org/" target="_blank"><img width="16" height="32" alt="C++" src="https://www.piceno.dev/images/language-grounded-cpp.png"></a>)</p>
       <p> -  Software Tools (C++, Java, Python)</p>
       <p> -  Application Programming (Java, JS, C#, Kotlin)</p>
       <p>}</p>
