@@ -27,6 +27,6 @@
         <img width="125" height="125" alt="Not_talking" src="https://github.com/user-attachments/assets/4288810e-a7c5-470b-b35b-3a73b2c0c9ea">
       </a>
     </kbd>
-    <code>This is an example of using the <code>&lt;code&gt;</code> tag in a README.
+    <code>&lt;code&gt;</code>
   </kbd>
 </div>
