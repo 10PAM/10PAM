@@ -27,6 +27,12 @@
         <img width="125" height="125" alt="Not_talking" src="https://github.com/user-attachments/assets/4288810e-a7c5-470b-b35b-3a73b2c0c9ea">
       </a>
     </kbd>
-    <code>&lt;#include <iostream>&gt;</code>
+    ```cpp
+    #include <iostream>
+    int main() {
+        std::cout << "Hello, World!" << std::endl;
+        return 0;
+    }
+    ```
   </kbd>
 </div>
