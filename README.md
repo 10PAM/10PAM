@@ -2,7 +2,7 @@
   <kbd>
     <p> </p>
     <kbd align="center">
-      <span style="font-weight: bold;">Mario Aguilera Piceno, B.S. Computer Science</span>
+      <h1 style="font-weight: bold;">Mario Aguilera Piceno, B.S. Computer Science</h1>
     </kbd>
     <p> </p>
     <kbd align="center">
