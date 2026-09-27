@@ -12,15 +12,13 @@
       </a>
     </kbd>
     <p> </p>
-    <details>
-    <summary><b>Additional Stats</b></summary>
-      <p> </p>
+    <div align="left" width=200px>
       <p>👋 Hey there!</p>
       <p>🧠 I am interested in learning about computer systems, but particularly programming methods for video game engines and software applications in general.</p>
       <p>📚 I am currently taking a four year computer science course at a Central Washington University, with hopes of attaining a master's in computer science there too.</p>
       <p>ℹ️ Pronouns: He/Him</p>
       <p>🤠 Fun Fact: Vaqueros are the original cowboys.</p>
-    </details>
+    </div>
     <p> </p>
     <kbd align="center">
       <p style="font-weight: bold;">↓ Mondays be Like ↓</p>
