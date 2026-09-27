@@ -1,7 +1,7 @@
 <div align="center">
   <kbd>
-    #Mario Aguilera Piceno
-    <p style="font-weight: bold;">[ Computer Programmer ]</p>
+    <p style="font-weight: bold;">Mario Aguilera Piceno, B.S. Computer Science</p>
+    <sub style="font-weight: bold;">[ Computer Programmer ]</sub>
     <p style="font-weight: bold;">[ Piceno's Founder ]</p>
     <p style="font-weight: bold;">[ Mental Health Worker ]</p>
     <p style="font-weight: bold;">↓ Check out Piceno ↓</p>
