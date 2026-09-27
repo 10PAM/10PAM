@@ -13,14 +13,16 @@
     </kbd>
     <br>
     <div align="left" width=200px>
+      <br>
       <p>👋 Hey there!</p>
       <p>🧠 I am interested in learning about computer systems, but particularly programming methods for video game engines and software applications in general.</p>
       <p>📚 I am currently taking a four year computer science course at a local university, with hopes of attaining a master's in computer science from the same university afterwards.</p>
       <p>ℹ️ Pronouns: He/Him</p>
       <p>🤠 Fun Fact: Vaqueros are the original cowboys.</p>
     </div>
+    <br>
     <kbd align="center">
-      <img width="300" height="300" alt="Pug" src="https://github.com/user-attachments/assets/fc47a40e-6d36-4359-a8ec-38292d36c57a" />
+      <img width="125" height="125" alt="Not_talking" src="https://github.com/user-attachments/assets/4288810e-a7c5-470b-b35b-3a73b2c0c9ea" />
     </kbd>
   </kbd>
 </div>
