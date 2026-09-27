@@ -14,10 +14,10 @@
     <p> </p>
     <div align="left" width=200px>
       <hr>
-      <p>👋 Hey there!</p>
-      <p>🧠 I am interested in learning about computer systems. Particularly, programming methods for video game engines and software applications in general.</p>
-      <p>📚 I am currently taking a four year computer science course at a Central Washington University, with hopes of attaining a master's in computer science there too.</p>
-      <p>ℹ️ Pronouns: He/Him</p>
+      <p>👋 Welcome: Hey there!</p>
+      <p>🧠 My Interests: I am interested in learning about computer systems. Particularly, I am interested in understanding 3D graphics, game engine, and low-level programming in general.</p>
+      <p>📚 I am a student in the B.S. computer science program at Central Washington University, with hopes of attaining a master's in computer science there afterwards.</p>
+      <p>ℹ️ My Pronouns: He/Him</p>
       <p>🤠 Fun Fact: Vaqueros are the original cowboys.</p>
       <hr>
     </div>
