@@ -30,7 +30,9 @@
     <br>
     <details>
     <summary><b>Additional Stats</b></summary>
-      ...
+      Project Management: 95
+      Teamwork: 95
+      Commitment: 50
     </details>
   </kbd>
 </div>
