@@ -38,7 +38,7 @@
       <p>My Interests {</p>
       <p> -  3D Graphics Programming</p>
       <p> -  Mobile & Web Application Programming</p>
-      <p> -  Software Tools</p>
+      <p> -  Developing Software Tools</p>
       <p>}</p>
       <p>Programming Languages {</p>
       <kbd alin="center">
