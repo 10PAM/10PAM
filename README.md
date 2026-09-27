@@ -12,7 +12,7 @@
       </a>
     </kbd>
     <br>
-    <div align="left" style="width: 50%;">
+    <div align="left" style="width: 200px;">
       <p>👋 Hey there!</p>
       <p>🧠 I am interested in learning about computer systems, but particularly programming methods for video game engines and software applications in general.</p>
       <p>📚 I am currently taking a four year computer science course at a local university, with hopes of attaining a master's in computer science from the same university afterwards.</p>
