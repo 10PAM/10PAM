@@ -24,7 +24,7 @@
       <p> -  Software Tools (C++, Java, Python)</p>
       <p> -  Application Programming (Java, JS, C#, Kotlin)</p>
       <p>}</p>
-      <p>I am a student in the B.S. computer science program at</p><a href="https://www.cwu.edu/" target="_blank"><img width="20" height="10" alt="Not_talking" src="https://www.piceno.dev/mario/CWU_Logo3.png"></a><p>with hopes of attaining a master's in computer science there afterwards.</p>
+      <p>I am a student in the B.S. computer science program at</p><a href="https://www.cwu.edu/" target="_blank"><img width="20" height="10" alt="Not_talking" src="https://www.piceno.dev/images/pages/mario/CWU_Logo3.png"></a><p>with hopes of attaining a master's in computer science there afterwards.</p>
       <p> My Pronouns: He/Him</p>
       <p>Fun Fact: Vaqueros are the original cowboys.</p>
       <hr>
