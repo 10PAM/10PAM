@@ -1,9 +1,7 @@
 <div align="center">
   <kbd>
     <p> </p>
-    <kbd align="center">
-      <span>Mario Aguilera Piceno, B.S. Computer Science</span>
-    </kbd>
+    <h2>Mario Aguilera Piceno, B.S. Computer Science</h2>
     <p> </p>
     <kbd align="center">
       <span style="font-weight: bold;">[ Computer Programmer • Piceno's Founder • Mental Health Worker ]</span>
