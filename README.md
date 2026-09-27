@@ -23,7 +23,7 @@
       <a href="mailto:contact@piceno.dev"><img src="https://www.piceno.dev/images/Gmail.png" width="40" height="40" border="0" alt="Email"></a>
       <a href="https://www.instagram.com/yoo.mario"><img src="https://www.piceno.dev/images/Instagram.png" width="40" height="40" border="0" alt="Instagram"></a>
       <a href="https://www.facebook.com/01MAP"><img src="https://www.piceno.dev/images/Facebook.png" width="40" height="40" border="0" alt="Facebook"></a>
-      <a href="https://www.youtube.com/@PicenoLLC"><img src="https://www.piceno.dev/images/YouTube.png" width="40" height="40" border="0" alt="YouTube"></a>
+      <a href="https://www.youtube.com/@DoctorHollowX"><img src="https://www.piceno.dev/images/YouTube.png" width="40" height="40" border="0" alt="YouTube"></a>
       <a href="https://www.patreon.com/PicenoLLC/"><img src="https://www.piceno.dev/images/Patreon.jpg" width="40" height="40" border="0" alt="Patreon"></a>
     </kbd>
     <p> </p>
