@@ -29,7 +29,7 @@
     <p> </p>
     <div align="left" width=200px>
       <hr>
-      <p>Hey there!</p>
+      <p>Hey there, welcome to my GitHub!</p>
       <p>My Interests {</p>
       <p> -  3D Graphics Programming (C++)</p>
       <p> -  Software Tools (C++, Java, Python)</p>
