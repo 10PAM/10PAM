@@ -27,7 +27,7 @@
       <a href="https://www.patreon.com/PicenoLLC/"><img src="https://www.piceno.dev/images/Patreon.jpg" width="40" height="40" border="0" alt="Patreon"></a>
     </kbd>
     <p> </p>
-    <div align="left" width=200px>
+    <div align="left">
       <hr>
       <p>Hey there, welcome to my GitHub!</p>
       <p>My Interests {</p>
