@@ -34,9 +34,11 @@
     <kbd align="left">
       <p>Hey there, welcome to my GitHub!</p>
       <p>My Interests {</p>
-      <p> -  3D Graphics Programming</p>
-      <p> -  Mobile & Web Application Programming</p>
-      <p> -  Software Tools</p>
+      <kbd>
+        <p> -  3D Graphics Programming</p>
+        <p> -  Mobile & Web Application Programming</p>
+        <p> -  Software Tools</p>
+      </kbd>
       <p>}</p>
       <p>Programming Languages {</p>
       <kbd alin="center">
