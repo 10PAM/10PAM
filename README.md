@@ -1,5 +1,6 @@
 <div align="center">
   <kbd>
+    <p> </p>
     <kbd align="center">
       <span style="font-weight: bold;">Mario Aguilera Piceno, B.S. Computer Science</span>
     </kbd>
