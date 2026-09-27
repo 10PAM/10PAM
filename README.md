@@ -7,9 +7,11 @@
     <p> </p>
     <kbd align="center">
       <p style="font-weight: bold;">↓ More About Me ↓</p>
+      <p> </p>
       <a href="https://www.piceno.dev/mario/" target="_blank">
           <img src="https://www.piceno.dev/images/Portrait.jpg" style="width: 125px; height: 125px; border: 2px solid #FFFFFF;" alt="Piceno">
       </a>
+      <p> </p>
       <p style="font-weight: bold;">↑ More About Me ↑</p>
     </kbd>
     <p> </p>
