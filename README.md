@@ -29,4 +29,8 @@
     </kbd>
   </kbd>
 </div>
-<code>#include &lt;iostream&gt;</code>
+<pre><code>#include &lt;iostream&gt;
+int main() {
+    std::cout &lt;&lt; "Hello World";
+    return 0;
+}</code></pre>
