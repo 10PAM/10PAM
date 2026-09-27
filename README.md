@@ -4,7 +4,7 @@
     <p style="font-weight: bold;">[ Computer Programmer ]</p>
     <p style="font-weight: bold;">[ Piceno's Founder ]</p>
     <p style="font-weight: bold;">[ Mental Health Worker ]</p>
-    <p style="font-weight: bold;">Check out Piceno</p>
+    <p style="font-weight: bold;">↓ Check out Piceno ↓</p>
     <br>
     <kbd align="center">
       <a href="https://www.piceno.dev/" target="_blank">
