@@ -27,6 +27,7 @@
         <img width="125" height="125" alt="Not_talking" src="https://github.com/user-attachments/assets/4288810e-a7c5-470b-b35b-3a73b2c0c9ea">
       </a>
     </kbd>
+    <br>
     <details>
     <summary><b>Additional</b></summary>
       ...
