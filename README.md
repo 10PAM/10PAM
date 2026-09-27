@@ -37,6 +37,12 @@
       <p>}</p>
       <p>Languages {</p>
       <a href="https://isocpp.org/" target="_blank"><img width="40" height="40" alt="C++" src="https://www.piceno.dev/images/CPP.png"></a>
+      <a href="https://www.java.com/en/" target="_blank"><img width="40" height="40" alt="Java" src="https://www.piceno.dev/images/java-2.png"></a>
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/overview" target="_blank"><img width="40" height="40" alt="C#" src="https://www.piceno.dev/images/CS.png"></a>
+      <a href="https://kotlinlang.org/" target="_blank"><img width="40" height="40" alt="Kotlin" src="https://www.piceno.dev/images/kotlin.png"></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="40" height="40" alt="JavaScript" src="https://www.piceno.dev/images/js.png"></a>
+      <a href="https://python.org/" target="_blank"><img width="40" height="40" alt="Python" src="https://www.piceno.dev/images/Python.png"></a>
+      <p> </p>
       <p>}</p>
       <p>I am a student in the B.S. computer science program at Central Washington University (<a href="https://www.cwu.edu/" target="_blank"><img width="33" height="16" alt="CWU" src="https://www.piceno.dev/images/pages/mario/cwu-logo-fit-2.png"></a>), with hopes of completing it in winter of 2028 and attaining a master's in computer science there afterwards.</p>
       <p> My Pronouns: He/Him</p>
