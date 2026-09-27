@@ -21,6 +21,7 @@
       <p>🤠 Fun Fact: Vaqueros are the original cowboys.</p>
     </div>
     <br>
+    <p></p>
     <kbd align="center">
       <p style="font-weight: bold;">↓ Mondays be Like ↓</p>
       <a href="https://www.piceno.dev/mario/" target="_blank">
