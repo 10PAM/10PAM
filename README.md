@@ -6,7 +6,7 @@
     <p style="font-weight: bold;">[ Mental Health Worker ]</p>
   </kbd>
   <br>
-  <kbd>
+  <kbd aling="center">
     <p style="font-weight: bold;">Check out Piceno:</p>
     <a href="https://www.piceno.dev/" target="_blank">
         <img src="https://www.piceno.dev/images/Logo_Main.png" style="width: 125px; height: 125px; border: 2px solid #FFFFFF;" alt="Piceno">
