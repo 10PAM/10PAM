@@ -16,9 +16,9 @@
       <hr>
       <p>👋 Hey there!</p>
       <p>🧠 My Interests:</p>
-      <p> ■ Low level programming (C++)</p>
-      <p> ■ 3D Graphics Programming</p>
-      <p> ■ Application Programming</p>
+      <p> ➡️ Low level programming (C++)</p>
+      <p> ➡️ 3D Graphics Programming</p>
+      <p> ➡️ Application Programming</p>
       <p>📚 I am a student in the B.S. computer science program at Central Washington University, with hopes of attaining a master's in computer science there afterwards.</p>
       <p>ℹ️ My Pronouns: He/Him</p>
       <p>🤠 Fun Fact: Vaqueros are the original cowboys.</p>
