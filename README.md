@@ -13,7 +13,6 @@
     </kbd>
     <p> </p>
     <div align="left" width=200px>
-      <p style="font-weight: bold;">↓ About ↓</p>
       <hr>
       <p>👋 Hey there!</p>
       <p>🧠 I am interested in learning about computer systems, but particularly programming methods for video game engines and software applications in general.</p>
