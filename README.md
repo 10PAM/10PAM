@@ -5,12 +5,13 @@
     <p style="font-weight: bold;">[ Piceno's Founder ]</p>
     <p style="font-weight: bold;">[ Mental Health Worker ]</p>
   </kbd>
+  <br>
+  <kbd>
     <p style="font-weight: bold;">Check out Piceno:</p>
     <a href="https://www.piceno.dev/" target="_blank">
-      <kbd>
         <img src="https://www.piceno.dev/images/Logo_Main.png" style="width: 125px; height: 125px; border: 2px solid #FFFFFF;" alt="Piceno">
-      </kbd>
     </a>
+  </kbd>
 </div>
 
 <br>
