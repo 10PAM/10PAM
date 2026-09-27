@@ -43,10 +43,10 @@
       <kbd alin="center">
         <a href="https://www.c-language.org/" target="_blank"><img width="40" height="40" alt="C" src="https://www.piceno.dev/images/C.png"></a>
         <a href="https://isocpp.org/" target="_blank"><img width="40" height="40" alt="C++" src="https://www.piceno.dev/images/CPP.png"></a>
-        <a href="https://www.java.com/en/" target="_blank"><img width="40" height="40" alt="Java" src="https://www.piceno.dev/images/java-2.png"></a>
         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/overview" target="_blank"><img width="40" height="40" alt="C#" src="https://www.piceno.dev/images/CS.png"></a>
-        <a href="https://kotlinlang.org/" target="_blank"><img width="40" height="40" alt="Kotlin" src="https://www.piceno.dev/images/kotlin.png"></a>
+        <a href="https://www.java.com/en/" target="_blank"><img width="40" height="40" alt="Java" src="https://www.piceno.dev/images/java-2.png"></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="40" height="40" alt="JavaScript" src="https://www.piceno.dev/images/js.png"></a>
+        <a href="https://kotlinlang.org/" target="_blank"><img width="40" height="40" alt="Kotlin" src="https://www.piceno.dev/images/kotlin.png"></a>
         <a href="https://python.org/" target="_blank"><img width="40" height="40" alt="Python" src="https://www.piceno.dev/images/Python.png"></a>
       </kbd>
       <p> </p>
