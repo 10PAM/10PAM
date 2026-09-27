@@ -28,8 +28,7 @@
       </a>
     </kbd>
     <details>
-    <summary>
-      <b>Click to expand or hide advanced options</b></summary>
+    <summary><b>Additional</b></summary>
       ...
     </details>
   </kbd>
