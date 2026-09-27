@@ -42,7 +42,7 @@
       <p> </p>
       <p>Project Management: 100</p>
       <p>Teamwork: 95</p>
-      <p>Commitment: Depends</p>
+      <p>Commitment: ...</p>
     </details>
   </kbd>
 </div>
