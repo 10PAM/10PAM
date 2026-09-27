@@ -29,7 +29,7 @@
     </kbd>
     <details>
     <br>
-    <summary><b>Additional</b></summary>
+    <summary><b>Additional Stats</b></summary>
       ...
     </details>
   </kbd>
