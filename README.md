@@ -1,4 +1,4 @@
-<img src="https://www.piceno.dev/images/Logo_Main.png" style="width: 300px; height: 300px;">
+<img src="https://www.piceno.dev/images/Logo_Main.png" style="width: 150px; height: 150px; border: 1px solid #FFFFFF">
 
 ---
 - 👋 Hey there!
