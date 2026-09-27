@@ -34,11 +34,11 @@
     <kbd align="left">
       <p>Hey there, welcome to my GitHub!</p>
       <p>My Interests {</p>
-      <p> -  3D Graphics Programming (C++)</p>
-      <p> -  Software Tools (C++, Java, Python)</p>
-      <p> -  Application Programming (Java, JS, C#, Kotlin)</p>
+      <p> -  3D Graphics Programming</p>
+      <p> -  Mobile & Web Application Programming</p>
+      <p> -  Software Tools</p>
       <p>}</p>
-      <p>Languages {</p>
+      <p>Programming Languages {</p>
       <kbd alin="center">
         <a href="https://isocpp.org/" target="_blank"><img width="40" height="40" alt="C++" src="https://www.piceno.dev/images/CPP.png"></a>
         <a href="https://www.java.com/en/" target="_blank"><img width="40" height="40" alt="Java" src="https://www.piceno.dev/images/java-2.png"></a>
