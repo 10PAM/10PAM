@@ -14,7 +14,7 @@
     <p> </p>
     <div align="left" width=200px>
       <hr>
-      <p>👋 Welcome: Hey there!</p>
+      <p>👋 Hey there!</p>
       <p>🧠 My Interests: I am interested in learning about computer systems. Particularly, I am interested in understanding 3D graphics, game engine, and low-level programming in general.</p>
       <p>📚 I am a student in the B.S. computer science program at Central Washington University, with hopes of attaining a master's in computer science there afterwards.</p>
       <p>ℹ️ My Pronouns: He/Him</p>
