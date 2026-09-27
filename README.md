@@ -29,10 +29,4 @@
     </kbd>
   </kbd>
 </div>
-```cpp
-  #include <iostream>
-  int main() {
-  std::cout << "Hello, World!" << std::endl;
-  return 0;
-  }
-```
+<code>#include &lt;iostream&gt;</code>
