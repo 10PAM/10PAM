@@ -93,9 +93,9 @@
       <p>I will take into consideration and respect the beliefs, feelings, understandings, and backgrounds of others.</p>
     </details>
     <details>
-    <summary><b>My Song</b></summary>
+    <summary><b>My Top Song of The Year Picks</b></summary>
       <p> </p>
-      <a href="https://youtu.be/9DW9n3nw8Yk?is=lgLS7dtOZRfGspXe">Viaja Conmigo</a>
+      <a href="https://youtu.be/9DW9n3nw8Yk?is=lgLS7dtOZRfGspXe">2026: Viaja Conmigo</a>
     </details>
   </kbd>
 </div>
