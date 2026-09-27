@@ -18,8 +18,8 @@
       <p>🧠 My Interests {</p>
       <p> ➡️ 3D Graphics Programming (C++)</p>
       <p> ➡️ Software Tools (C++, Java, Python)</p>
-      <p>}</p>
       <p> ➡️ Application Programming (Java, Kotlin, JavaScript)</p>
+      <p>}</p>
       <p>📚 I am a student in the B.S. computer science program at Central Washington University, with hopes of attaining a master's in computer science there afterwards.</p>
       <p>👨🏻‍🦱 My Pronouns: He/Him</p>
       <p>🤠 Fun Fact: Vaqueros are the original cowboys.</p>
