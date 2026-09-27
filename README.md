@@ -66,9 +66,11 @@
     <details>
     <summary><b>Additional Stats</b></summary>
       <p> </p>
-      <p>Project Management: 100</p>
-      <p>Teamwork: 95</p>
-      <p>Commitment: ...</p>
+      <kdb>
+        <p>Project Management: 100</p>
+        <p>Teamwork: 95</p>
+        <p>Commitment: ...</p>
+      </kdb>
     </details>
   </kbd>
 </div>
