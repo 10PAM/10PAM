@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <kbd>
     <p style="font-weight: bold;">Mario Aguilera Piceno, B.S. Computer Science</p>
     <p style="font-weight: bold;">[ Computer Programmer ]</p>
