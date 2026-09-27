@@ -9,4 +9,3 @@ About Me:
 - 🤠 Pronouns: He/Him
 - 💡 Fun Fact: Vaqueros are the original cowboys.
 ---
-
