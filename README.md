@@ -31,7 +31,7 @@
       <hr>
       <p>Hey there, welcome to my GitHub!</p>
       <p>My Interests {</p>
-      <kbd align="center">
+      <kbd align="left">
         <p> -  3D Graphics Programming (C++)</p>
         <p> -  Software Tools (C++, Java, Python)</p>
         <p> -  Application Programming (Java, JS, C#, Kotlin)</p>
