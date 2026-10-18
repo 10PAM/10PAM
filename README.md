@@ -53,7 +53,7 @@
       <p> </p>
       <p>}</p>
       <p>About {</p>
-      <p>I am a student at Central Washington University (<a href="https://www.cwu.edu/" target="_blank"><img width="33" height="16" alt="CWU" src="https://www.piceno.dev/images/pages/mario/cwu-logo-fit-2.png"></a>) working towards earning by B.S. in Computer Science, with hopes of completing it in winter quarter 2028 and applying for the M.S. in Computational Science there afterwards.</p>
+      <p>I am a student at Central Washington University (<a href="https://www.cwu.edu/" target="_blank"><img width="33" height="16" alt="CWU" src="https://www.piceno.dev/images/pages/mario/cwu-logo-fit-2.png"></a>) working towards earning by B.S. in Computer Science, with hopes of completing it in winter quarter 2028 and applying for the M.S. in Computational Science program there afterwards.</p>
       <p>My Pronouns: He/Him</p>
       <p>Fun Fact: Vaqueros are the original cowboys.</p>
       <p>}</p>
